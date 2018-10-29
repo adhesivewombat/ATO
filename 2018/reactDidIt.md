@@ -8,7 +8,6 @@
     * Might be _slightly_ biased
 * He's pushing dojo pretty hard
     * I think he might work for DOJO
-        * Something tells me that...
 * He's referring to Dojo as "we" now
     * I think he might actually be dojo
 > I'm going to be focused on Dojo as long as a single person cares
@@ -31,9 +30,14 @@
 * doing more extendable stuff with the native language
 ## "Real world"
 * Performance of modern js frameworks
+   * React isn't great on initial load
+   * Angular is worse
+   * The lightweight ones are much faster
+      * But at what cost?
 ## The react approach is not going away
 * But react probably will
 # How many times has he said dojo?
 * probably at least 30 at this point
-* |||||||||||||||||
+* Let's keep a count from now
+   * |||||||||||||||||
 > This talk isn't _really_ about dojo
