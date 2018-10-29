@@ -1,3 +1,3 @@
 # Code Reviews as a culture
-#### someone
+#### Someone
 ## My computer died :(

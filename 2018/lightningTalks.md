@@ -1,7 +1,7 @@
 # Lightning Talks
 
 ## opensource.com
-* site for articles
+* Site for articles
 ## rasberry pi guy
 #### Ben Nuttal
 * Hackspace magazine looks neat

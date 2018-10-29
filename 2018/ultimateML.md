@@ -5,71 +5,71 @@
 * Data science = ML + business domain knowledge
 * Can use structured or unstructured data
     * This talk will be using structured
-    * structured: tables with fields and variables
-    * unstructured: text stream
+    * Structured: tables with fields and variables
+    * Unstructured: text stream
 * Supervised vs unsupervised
-    * supervised: when you know the target
+    * Supervised: when you know the target
 ## The iris dataset
-* simple, sample dataset of some flowers
-* from UCI ML depository
+* Simple, sample dataset of some flowers
+* From UCI ML depository
 ## (some) Models
-* clustering
-* linear regression
-* neural network
-* deep learning
-* decision tree
-* logistic regression
+* Clustering
+* Linear regression
+* Neural network
+* Deep learning
+* Decision tree
+* Logistic regression
 ## Stages of ML
 * Collect data
-* analyze & clean
-* transform data
-* build a model
-* deploy the model
-* monitor and update as needed
-* repeat
+* Analyze & clean
+* Transform data
+* Build a model
+* Deploy the model
+* Monitor and update as needed
+* Repeat
 ## Deployment challenges
-* different OS's and file systems
-* different languages
-    * different versions of languages
+* Different OS's and file systems
+* Different languages
+    * Different versions of languages
 > There is a big disconnect between model building and model deployment
 ## Data Mining Group
-* attempts to fix these challenges
+* Attempts to fix these challenges
 * IBM helped found
-* dmb.org/pmml
+* Dmb.org/pmml
 * Predictive Model Markup Language
 ## What is PMML
 * A filetype to describe a built ML model
 * Heirarchical, human-readable structure
 * An open standard for deploying models to many types of environments and programs
 ### Main components of PMML
-* header
-* data directory
-* transformation dictionary
-* models
+* Header
+* Data directory
+* Transformation dictionary
+* Models
 ## PMML features
 * Lots of PMML functions
 * Some ML models
-* similar syntax to HTML
-* can be used for model visualization as well as scoring
+* Similar syntax to HTML
+* Can be used for model visualization as well as scoring
 ## PMML use
-* in python: [JPMML](https://github.com/jpmml)
-* can be used in R and use R's models
+* In python: [JPMML](https://github.com/jpmml)
+* Can be used in R and use R's models
 * [IBM SPSS](https://www.ibm.com/analytics/spss-statistics-software)
-    * supports many models exporting to PMML
+    * Supports many models exporting to PMML
 * Watson studio
 ## How to score with PMML
 * JPMML has options for that
 * IBM SPSS can do it using the scoring wizard
 ## Other model deployment formats
 ### [PFA](dmg.org/pfa)
-* newer
-* less support
-* lots of interest
+* Newer
+* Less support
+* Lots of interest
 ### Pickle
-* python
+* Python
 ### Mleap
-* open format, not a standard
+* Open format, not a standard
 ### ONNX
-* not text based
+* Not text based
 ## There are some containers for ML
-* ibm.biz/max-models
+* Ibm.biz/max-models

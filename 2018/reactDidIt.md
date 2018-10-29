@@ -17,7 +17,7 @@
 * You need to keep up with effeciency packages yourself
 ## Typing
 * Flow & typescript are still relevant
-* typescript is getting more traction still
+* Typescript is getting more traction still
 ## Other Frameworks
 > When you have to choose frameworks as often as you have to change popular music, that isn't good for anyone
 * vue
@@ -25,11 +25,11 @@
     * very lightweight
 * ionic
 * project evergreen
-    * just support newest browsers only
+    * Just support newest browsers only
 ## TC39
 * doing more extendable stuff with the native language
 ## "Real world"
-* performance of modern js frameworks
+* Performance of modern js frameworks
 ## The react approach is not going away
 * But react probably will
 # How many times has he said dojo?

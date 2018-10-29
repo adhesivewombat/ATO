@@ -24,9 +24,9 @@
 ### Folder structure system
 * What we do already
 * sass can be split up into different folders
-    * variables
-    * mixins
-    * functions
+    * Variables
+    * Mixins
+    * Functions
 
 ## Takeaways
 ### Naming consistency is important
