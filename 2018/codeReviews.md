@@ -3,7 +3,7 @@
 ## My computer died :(
 * These notes are from my memory...
   * Don't expect much
-## What makes good culture?
+## What makes good culture
 * Clearly defined culture that is well documented and understood by everyone
 ## What doesn't make good culture
 * When there are only a few people that "make" the culture but no one really knows how they do it
