@@ -2,7 +2,6 @@
 
 ## [opensource.com](https://opensource.com/)
 * Site for articles about open source stuff
-  * 
 ## rasberry pi guy
 #### Ben Nuttal
 * Hackspace magazine looks neat
@@ -17,6 +16,8 @@
 * cub kettle
 * kub cattle
 * que bectal
+* qué béctál
+* cube cee tee ell
 * cube control
 * koob control
 * koob cattle
