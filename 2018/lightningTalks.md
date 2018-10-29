@@ -1,7 +1,8 @@
 # Lightning Talks
 
-## opensource.com
-* Site for articles
+## [opensource.com](https://opensource.com/)
+* Site for articles about open source stuff
+  * 
 ## rasberry pi guy
 #### Ben Nuttal
 * Hackspace magazine looks neat
@@ -13,4 +14,10 @@
 * cube cuddle
 * cube kuddle
 * cube cuttle
-
+* cub kettle
+* kub cattle
+* que bectal
+* cube control
+* koob control
+* koob cattle
+* `alias k='kubctl'`
