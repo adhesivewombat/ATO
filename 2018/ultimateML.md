@@ -61,7 +61,7 @@
 * JPMML has options for that
 * IBM SPSS can do it using the scoring wizard
 ## Other model deployment formats
-### [PFA](dmg.org/pfa)
+### [PFA](http://dmg.org/pfa/)
 * Newer
 * Less support
 * Lots of interest
