@@ -26,6 +26,7 @@
 * ionic
 * project evergreen
     * Just support newest browsers only
+* Did I mention... _DOJO_
 ## TC39
 * doing more extendable stuff with the native language
 ## "Real world"
