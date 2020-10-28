@@ -3,7 +3,7 @@
 ## "DevX"
 * developer experience (internal term in the nsa, but also a website that isn't related)
 * goal - increase throughput, velocity, & quality
-![](3.png)
+![](img/3.png)
 * very restricted internet access because working at the nsa
     * air-gap
 * security is a large concern

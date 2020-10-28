@@ -9,11 +9,11 @@ https://slides.benmvp.com/2020/ato/perfect-lib.html#/
     * why? writing good docs is hard
     * get feedback before starting work on the app
 * what sort of docs?
-![](25.png)
+![](img/25.png)
 * include both npm and yarn instructions
 * typescript types
     * flow types?
-* ![](26.png)
+* ![](img/26.png)
 
 ## bug free library
 * type checking with typescript
@@ -22,7 +22,7 @@ https://slides.benmvp.com/2020/ato/perfect-lib.html#/
 
 ## jest projects
 * you can run type checking, linting, and testing all through one command
-* ![](27.png)
+* ![](img/27.png)
 
 ## changing quickly
 * start by getting as much info as possible for the bug or feature
@@ -34,11 +34,11 @@ https://slides.benmvp.com/2020/ato/perfect-lib.html#/
     * contributing.md
 * esm - tree shaking
 * cjs
-![](28.png)
+![](img/28.png)
 * can use semantic-release in ci to release on every build
 
 ## recap
-![](29.png)
+![](img/29.png)
 * @benmvp/cli does a lot of this for you
     * https://github.com/benmvp/benmvp-cli
     * made by the presenter

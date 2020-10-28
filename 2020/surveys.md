@@ -32,7 +32,7 @@
     * (presenters are not sponsored by these companies, other survey platforms are available)
 * allow 1-2 weeks to collect responses
 * send 2 reminder emails for the survey
-![](1.png)
+![](img/1.png)
 * subject line can make or break the survey, craft if carefully
     * include words such as "Invitation:" or "Reminder:"
     * consider including the estimated time to complete
@@ -43,7 +43,7 @@
 * always use surveys **before** building something
     * it's also never too late to conduct a survey
 ## do's and dont's
-![](2.png)
+![](img/2.png)
 ## real world examples
 * company went with their gut and spent a lot of time on a product
     * 2 question exit survey: "did you find what you were looking for, yes or no?"

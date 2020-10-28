@@ -2,19 +2,19 @@
 
 ## what is a graph?
 * nodes and vertices, like a d20
-![](10.png)
-![](11.png)
+![](img/10.png)
+![](img/11.png)
 * connected means every node is connected to another node and each node can be reached from any other node
-![](12.png)
+![](img/12.png)
 * this graph is also "undirected", there is no real direction of relationships between nodes
 * degrees of a node - number of relationships it has
-![](13.png)
+![](img/13.png)
 * anything can connect to anything
 * nodes can even connect to themselves
 * no real rules on connections, a can connect to b 500 times
 * add some data
-![](14.png)
-![](15.png)
+![](img/14.png)
+![](img/15.png)
 * the relationships can read like a sentence
     * the room contains a monster
 
@@ -22,14 +22,14 @@
 * can use sql, or could use graph db
 * use cypher for querying graph dbs
     * using matching syntax
-    * ![](16.png)
+    * ![](img/16.png)
     * this will match any room that contains a monster
 
 ## CRUD
-![](17.png)
-![](18.png)
-![](19.png)
-![](20.png)
+![](img/17.png)
+![](img/18.png)
+![](img/19.png)
+![](img/20.png)
 * there is another syntax that is pretty similar to calling functions with json
 
 ## so what's the big difference?
@@ -49,17 +49,17 @@
             * what are the rooms that are nearby with gold?
             * what is the longest path in the dungeon?
 * just look at this query, pretty cool 
-![](21.png)
+![](img/21.png)
 
 ## demo
 https://github.com/guyroyse/dnd-and-graph-databases
 * he wrote a random dungeon generator in js
-![](22.png)
+![](img/22.png)
 * queried for shortest path to the most gold
-![](23.png)
+![](img/23.png)
 
 ## practical applications
-![](24.png)
+![](img/24.png)
 
 ## Q&A
 * how would you do the equivalent of grouping in graph - e.g. if there were multiple enemies there might be more XP in another room.

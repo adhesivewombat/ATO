@@ -2,12 +2,12 @@
 Protecting each step of the dev lifecycle
 ## Overview
 * we all know the benefits of using these new tools
-![](4.png)
+![](img/4.png)
 * using oss (about 90% now on average)
-![](5.png)
+![](img/5.png)
 * managing dependencies by hand is really time consuming
 * better to automate
-![](6.png)
+![](img/6.png)
 * cyber-crime trade is bigger than the drug trade
 
 ## example
@@ -60,7 +60,7 @@ docker run --net=clairnet --name clair -d -p 6060-6061:6060-6061 -v $PWD/clair_c
     * will check against known CVEs and report back
     * can scan against the OS of the host machine itself
 * always start scanning early
-![](7.png)
+![](img/7.png)
 sonatypecommunity.vscode-iq-plugin
 
 ## some free developer tools
@@ -75,7 +75,7 @@ sonatypecommunity.vscode-iq-plugin
 * will let you know which versions of that same package are safe so you can upgrade quickly
 * it's pretty easy to use compared to some of the other vuln scanners I've used
 
-![](9.png)
+![](img/9.png)
 
 ## sonatype oss index
 https://ossindex.sonatype.org/integrations
