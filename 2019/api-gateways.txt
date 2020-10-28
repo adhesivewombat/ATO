@@ -1,0 +1,72 @@
+Api Gateways Identity Crisis - backend (christian posta, solo.io)
+
+* What does "gateway" mean?
+	* clusters, service meshes, applications gateways?
+	* This guy is talking about developer gateways
+
+Goals of a gateway
+
+* good communication between services
+* proper security 
+* low drag for startup
+* reliable traffic control
+* traffic routing
+* policy enforcement
+* dynamic change in response to changes in the system
+
+Incremental strategy (seems to work)
+
+* start with a single gateway
+* pick a subset of traffic to move to this 
+* show value
+ 
+Important patterns
+
+* "edge" concerns (north-south vs east-west)
+	* traffic coming in vs traffic within a system
+	* they bring out different problems to solve with different tech
+	* north-south needs security, controlled exposure
+* The "gateway" pattern
+	* when you go to microservices you start to lose the structure of the program
+		* no single entry point
+	* api composistion
+	* tailored api for different kinds of clients
+* Mediator pattern
+	* adds rules for application access
+	* sits inbetween service and client (proxy)
+
+Envoy Proxy
+
+* envoyproxy.io
+* built to meet the patterns above
+* uses "mediator" proxy pattern
+
+Gloo
+
+* built on envoy but solves more problems
+* security
+* rate limiting and cacheing
+* api composition
+* written in go lang
+* supports request/response transformation
+
+Scaling out
+
+* necessary to isloate and shard the gateways with multiple levels
+* decouple services from gateways
+* expose microservices as sensible groups
+* getting closer to a service mesh architechture
+	* a gateway per app
+	* avoid it though
+	* make it sensible and structured
+
+
+
+
+
+
+
+
+
+
+

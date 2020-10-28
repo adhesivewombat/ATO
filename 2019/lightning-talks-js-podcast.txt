@@ -1,0 +1,33 @@
+Lightning Talks JS Party Podcast
+
+* they have a slack chat on live recordings
+* thursdays 1pm EST
+* they dance
+
+Inner Source vs. Open Source
+
+* topic: Free credits for open source projects 
+* OSI: decides if licenses are OSD compliant
+* vaccine license: only lets you use the product if you've vaccinated your children
+* Companies are trying to make licenses more "inner source" to appeal to their business model
+* Facebook put a licesne on react that included a patent clause
+
+People with non-js backgrounds getting into the field
+
+* yay diversity
+* ...
+
+Web Accessability
+
+* Think about your customer
+	* Do they have slow internet speeds?
+* Bring in people that don't use your product but are in your target audience and see how they use it
+
+Women in tech
+
+* people say they want to support it but don't actually support it
+* something about mentorships
+* there is a really funny interuppting sound that plays when the 5 minutes is up lol
+
+
+

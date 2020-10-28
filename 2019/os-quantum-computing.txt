@@ -1,0 +1,43 @@
+OS Quantum computing - 101 (Sean Dague, IMB Q)
+
+* quantum-computing.ibm.com
+* qiskit.org
+
+Super Basics
+
+* q-bits, quantum superposition
+* can only measure as a 1 or 0 (breakdown of wave function)
+	* sometimes has a probability of being biased to 0 or 1
+* uses quantum entaglement
+	* instead of using classical and/or/not gates, there are entagled states
+* algorithms use the concept of constructive/desrtuctive interference to determine answers to problems
+
+What is quantum computing good for?
+
+* simulating quantum mechanics
+* ML
+* a lot of te times worse than classical computing
+* we don't know really what it's super useful for yet (apart from some specific problems)
+	* it has been opened up to the public to find questions
+
+Qiskit
+
+* python
+* open source
+* built on Terra, Ignis, Aqua, Aer
+* not actually running on quantum hardware, just a simulation of it
+	* unless you use the link at the top
+* goes down to pretty basic hardware simulation
+	* results of qbit state measurements
+	* entangling
+
+Real quantum devices
+
+* anyone can run code on a quantum computer right now
+* quantum-computing.ibm.com
+* (runs qiskit)
+* 14 qubit
+	* general purpose
+* 
+
+

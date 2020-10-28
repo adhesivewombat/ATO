@@ -1,0 +1,86 @@
+Blue Cross Same Day Data Experiments - Big Data (Glenn Bernstein, BCBSNC)
+	Hurry up and wait - our journey to smae day experiments and big data super powers
+
+* BCBS started with paper and now has competition with other in the virtual space (google, amazon, walmart)
+* NC - 4 million members, 5k employees
+* federal government is pushing BCBSNC to make data avialable via open standards and open resources
+	* FHIR
+	* need to be dealing with providers in standardized data sets
+	* the patient information needs to be at the doctors office real time
+	* standardized data quality
+	* needs to be responsible with the data
+		* health data is sensitive
+* BCBS started by pushing for standardizing insurance claim forms
+* Doctors offices don't share information between themselves
+	* difficult for patients
+* dataathepointofcare.gov
+
+Solution
+
+* cloud based system
+* many different techs
+* sources -> storange & analytics -> external consumers
+
+Journey
+
+* They started in a pretty bad scenerio, nothing was really accessable via APIs or anything
+* Came up with the idea of making a datalake
+	* pretty standard design - hadoop, tons of storage, jupyter notebook, r server, etc.
+	* on AWS
+* Why a data lake?
+	* data needs to be real-time
+	* allows for retrieving and using data quickly
+* Getting access to data was a big blocker
+* Pains with the "legacy" datalake
+	* fixed size cluster
+	* even on the cloud it took a long time to scale up
+	* hard to make configuration changes
+	* (they weren't leveraging modern AWS solutions)
+	* sercurity and HIPPA compliance is difficult on the cloud
+		* all medical data needs to be encrypted end-to-end
+		* SSL missing on RDBMS systems
+
+Next iteration Goals
+
+* they wanted to own all of it
+	* no managed services
+	* not relying on a vendor for changes
+* quickly adaptable
+	* market changes quickly
+	* not sure what the data will look like in a few years
+	* extensible
+* prototype-friendly
+	* easy to play with the data
+* repeatable
+	* easy to stand up copies of an environment
+
+Next iteration solutions (platform 2.0)
+
+* Open source software
+	* hadoop, spark, git, jenkins, ansible, docker, k8s
+* infrastructure as code
+	* build a pipeline
+	* deploy as code
+* Data governance
+	* Collibra was picked
+	* ODPi - standards to use data across all platforms
+* Data as a supply chain
+	* lots of sources of data and lots of different kind of data
+* Dev-ops
+	* use of multiple AWS environments
+		* sandboxes
+		* specific environments for internal purposes (analytics, testing, development, etc.)
+		* multiple pdocution environments
+			* production-discovery environemnt
+				* it's a production env where people develop
+			* production-automation environment
+				* actual production
+			* production-integration
+				* used for automation testing
+* security
+	* cell level encryption and security
+* they are now building a platform portal
+	* self service
+	* data journey
+
+	

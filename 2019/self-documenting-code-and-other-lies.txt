@@ -1,0 +1,68 @@
+Good Code Documents Itself and Other Lies - 101 (Tiana Allard, Microsoft)
+
+* Documentation as the entry point for paying tech debt
+
+Tech Debt
+
+* accumlation of bad decisions
+* hinders process
+
+Caused by
+
+* us
+* time crunch
+* lack of resources
+* no push back on unrealistic goals
+* an already "broken" culture
+	* it's easy to keep creating tech debt when there's so much in the project already
+
+Code smells
+
+* indicators of a deeper problem (not bugs)
+* half-baked features
+* commented out pieces of code
+* no tests/bork tests
+* no docs or poor docs
+* everything is on fire all the time
+
+Machine Learning code smells
+
+* unreliable or unused data sources
+* "pipeline jungles" 
+	* tangled data interpretation
+
+Silver Bullet? - docs
+
+* make docs part of the work
+* should be part of the pipeline, no build without docs
+* astropy is a good example
+* create doc-guidelines
+* get newcomers to contribute
+	* fill in things that are confusing to them
+
+Documentation Tone
+* think about the terms you are using in your documetation
+	* too simple? confusing terms?
+* ALEX - documentation linting
+
+Commenting vs Documentation
+
+* "code tells you how, comments tell you why"
+
+Good docs
+
+* useful starting points
+* lives in a separate place from the code????
+	* wherever makes sense
+	* there are libraries that can generate docs for you from code comments
+		* can be integrated into pipeline
+* doc sprints???
+
+
+Other side (my own thoughts)
+
+* name things after what they do (variables, functions)
+* use strict typing when possible
+* put comments when something could be unclear
+* docs need solutions for maintenence (pipeline is a good solution) and a place to live
+	* needs tooling

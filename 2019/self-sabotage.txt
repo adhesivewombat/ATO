@@ -1,0 +1,58 @@
+How Developers Self Sabotage their learning and what to do instead - 101 (Tori Hall)
+	
+Focus
+
+* is multitasking a thing?
+	* no, not really
+* focus is key
+	* duh
+		* but it's hard sometimes
+	* checking emails at conferences is SABOTAGE
+	* tips
+		* take breaks
+			* trainers should give you breaks (but ask if they don't)
+		* set goals
+		* be intentional about which talks you go to
+		
+Contact Mindset
+
+* not meeting people at conferences is SABOTAGE
+	* don't just talk to the people that you already know
+	* tech is a team sport
+		* problems usually don't get solved by an individual
+		* the more people you know working in the same tech, the more people you have to bounce ideas off of
+	* diversity is good
+	* talk to people at the booths
+	* talk to the presenter
+	
+Discussion
+
+* Hammer & Nail (problem or solution)
+	* Which is more important?
+		* my answer (SABOTAGE): the nail
+		* real answer: the hammer!
+	* why?
+		* tech moves really fast
+		* today's problem isn't going to be relevant for very long
+		* solutions have a lot more staying power
+		* problems shift a lot faster
+* Questions
+	* ask questions to learn
+		* don't ask questions to teach other people in the room
+	* find applications to current problems
+		* don't focus entirely on current problems
+	* have an open mind
+		* don't learn to doubt
+		* though it does pay to be skeptical sometimes
+	
+Q&A
+
+* how do I throw myself into something new?
+	* have a friend that knows the new thing better than you (or someone at your same level)
+	* talk to your friend about your problems with the thing
+* problem vs solution
+	* someone disagrees that problems don't last a long time
+	* sometimes in looking for solutions you will learn new things?
+	* this topic seems polarizing
+	* probably should focus on both
+		* harnd to find a solution without a problem
