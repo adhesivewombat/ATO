@@ -1,3 +1,3 @@
 # 2019 talks
 
-here they are
+I went with ugly txt files this year to save on time (and battery)
